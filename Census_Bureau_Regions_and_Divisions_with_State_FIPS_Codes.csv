@@ -1,0 +1,52 @@
+Region,Division,State,FIPS
+Northeast,New England,Connecticut,9
+Northeast,New England,Maine,23
+Northeast,New England,Massachusetts,25
+Northeast,New England,New Hampshire,33
+Northeast,New England,Rhode Island,44
+Northeast,New England,Vermont,50
+Northeast,Middle Atlantic,New Jersey,34
+Northeast,Middle Atlantic,New York,36
+Northeast,Middle Atlantic,Pennsylvania,42
+Midwest,East North Central,Indiana,18
+Midwest,East North Central,Illinois,17
+Midwest,East North Central,Michigan,26
+Midwest,East North Central,Ohio,39
+Midwest,East North Central,Wisconsin,55
+Midwest,West North Central,Iowa,19
+Midwest,West North Central,Nebraska,31
+Midwest,West North Central,Kansas,20
+Midwest,West North Central,North Dakota,38
+Midwest,West North Central,Minnesota,27
+Midwest,West North Central,South Dakota,46
+Midwest,West North Central,Missouri,29
+South,South Atlantic,Delaware,10
+South,South Atlantic,District of Columbia,11
+South,South Atlantic,Florida,12
+South,South Atlantic,Georgia,13
+South,South Atlantic,Maryland,24
+South,South Atlantic,North Carolina,37
+South,South Atlantic,South Carolina,45
+South,South Atlantic,Virginia,51
+South,South Atlantic,West Virginia,54
+South,East South Central,Alabama,1
+South,East South Central,Kentucky,21
+South,East South Central,Mississippi,28
+South,East South Central,Tennessee,47
+South,West South Central,Arkansas,5
+South,West South Central,Louisiana,22
+South,West South Central,Oklahoma,40
+South,West South Central,Texas,48
+West,Mountain,Arizona,4
+West,Mountain,Colorado,8
+West,Mountain,Idaho,16
+West,Mountain,New Mexico,35
+West,Mountain,Montana,30
+West,Mountain,Utah,49
+West,Mountain,Nevada,32
+West,Mountain,Wyoming,56
+West,Pacific,Alaska,2
+West,Pacific,California,6
+West,Pacific,Hawaii,15
+West,Pacific,Oregon,41
+West,Pacific,Washington,53
